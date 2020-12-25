@@ -19,7 +19,7 @@ uses a different set of data to train on which was quite a practice to clean it.
 ChatBot trained and tested wih  "85.2%" of accuracy with no abusing and biased words
 
 ## File Structure
-**bot.py/**           file contains all necessary class function required for bot to run
-**botmodel.py/**      file contains all necessary class function required for model to build for bot
-**botpredict.py/**    file contains all necessary class function required for bot to predict for new or in direct run to predict
-**vocab.py/**         file to make vocabulary from data set
+- **bot.py/**           file contains all necessary class function required for bot to run
+- **botmodel.py/**      file contains all necessary class function required for model to build for bot
+- **botpredict.py/**    file contains all necessary class function required for bot to predict for new or in direct run to predict
+- **vocab.py/**         file to make vocabulary from data set
