@@ -15,6 +15,7 @@ you talk to your friends on messanger and other popular social media apps.
 
 As i was taking classes on udemy for my Natural Language Processing (NLP). I have been build ChatBot with much of code help from my instructor. ChatBot
 uses a different set of data to train on which was quite a practice to clean it.
+This project gives backend bot for my [TalkActive](https://github.com/manijhariya/TalkActives) project..
 
 ChatBot trained and tested wih  "85.2%" of accuracy with no abusing and biased words
 
