@@ -8,7 +8,7 @@
 * Build a terminal facing API to make it talk.
 <br>
 <p align="center">
-  <img src="static/temp.jpeg" width="450" alt="accessibility text">
+  <img src="static/temp.jpg" width="450" alt="accessibility text">
 </p>
 <br>
 
