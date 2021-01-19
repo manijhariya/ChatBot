@@ -31,8 +31,10 @@ Data was ready to fit into the model.
 Using Neural Network
    * Implimented model in Tensorflow2 (keras) in Recurrent Neural Network approach
    ** Encoder
+   
     Data ---> Embedded layer ---> (Encoder)LSTM layer ---> Encoder Ouput
    ** Decoder
+   
     Encoder Ouput ---> (Decoder)LSTM layers ----> Dense layer ----> Decoder Output
    * Build a custom loss and accuracy function
    * Compiled Model with Adam Optimizer with default learning rate
