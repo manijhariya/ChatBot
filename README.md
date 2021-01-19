@@ -6,6 +6,11 @@
 * Build a Encoder and Decoder using Recurrent Neural Network layers to train model.
 * Build a Encoder and Decoder using Recurrent Neural Network layers to use in API tasks
 * Build a terminal facing API to make it talk.
+<br>
+<p align="center">
+  <img src="static/temp.jpeg" width="450" alt="accessibility text">
+</p>
+<br>
 
 ## Code and Resources Used
 
