@@ -30,8 +30,9 @@ After downloading the data, Scripted in python to clean the data so that it can 
 Data was ready to fit into the model.
 Using Neural Network
    * Implimented model in Tensorflow2 (keras) in Recurrent Neural Network approach
-   ** Encoder
    
+   ** Encoder
+
     Data ---> Embedded layer ---> (Encoder)LSTM layer ---> Encoder Ouput
    ** Decoder
    
